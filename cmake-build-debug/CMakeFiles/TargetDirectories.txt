@@ -1,3 +1,0 @@
-C:/Users/Lenovo/Desktop/Lectures/242/242_A2/cmake-build-debug/CMakeFiles/242_A2.dir
-C:/Users/Lenovo/Desktop/Lectures/242/242_A2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Lenovo/Desktop/Lectures/242/242_A2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
